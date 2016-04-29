@@ -10,6 +10,7 @@
 - 添加[disqus](https://disqus.com/home/)评论系统
 - 使用[Mathjax](https://www.mathjax.org/)渲染数学公式
 - 移除之前汉化版本(v1.2.5)中的百度分享插件
+- 公共CDN多使用[BootCDN](http://www.bootcdn.cn/)，国内加速体验更佳
 
 主题效果如[Qyetfu](http://zhengdongjian.xyz)
 
