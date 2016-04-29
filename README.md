@@ -3,7 +3,9 @@
 ====
 
 这是[Ghost](http://github.com/tryghost/ghost/)的默认主题的个人汉化版本。
-当前版本：v1.2.8
+
+- 当前版本：v1.2.8
+
 主题效果如[Qyetfu](http://zhengdongjian.xyz)
 
 ====
