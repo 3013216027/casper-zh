@@ -1,0 +1,7 @@
+{
+  "name": "Casper",
+  "version": "1.2.8"
+  "dependencies": {
+    "clipboard": "^1.5.9"
+  }
+}
