@@ -5,6 +5,11 @@
 这是[Ghost](http://github.com/tryghost/ghost/)的默认主题的个人汉化版本。
 
 - 当前版本：v1.2.8
+- 原主题采用google字体，本版本使用[360网站卫士常用前端公共库CDN服务](http://libs.useso.com/)替换解决
+- 使用[hightlight.js](https://highlightjs.org/)提供代码语法高亮
+- 添加[disqus](https://disqus.com/home/)评论系统
+- 使用[Mathjax](https://www.mathjax.org/)渲染数学公式
+- 移除之前汉化版本(v1.2.5)中的百度分享插件
 
 主题效果如[Qyetfu](http://zhengdongjian.xyz)
 
